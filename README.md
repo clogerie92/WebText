@@ -12,7 +12,7 @@
 WebText is a text editor that runs in the browser. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. WebText can also function offline.
 
 ## Preview
-![Screencastify: Demo of WebText being used in the browser and then installed.](https://drive.google.com/file/d/1lz7QQF7MQEM4MlX-yXLV71GO45D3BEOX/view)
+![Screencastify: Demo of WebText being used in the browser.](https://drive.google.com/file/d/16hwoNzOtK3PAU2DWkPV7q128w6qyP2zq/view)
 
 
 
