@@ -13,9 +13,8 @@ WebText is a text editor that runs in the browser. It features a number of data 
 
 ## Preview
 ![Screencastify: Demo of WebText being used in the browser.](https://drive.google.com/file/d/16hwoNzOtK3PAU2DWkPV7q128w6qyP2zq/view)
-![Heroku] (https://serene-retreat-40310.herokuapp.com/)
-
-
+<br>
+Heroku Deployment: (https://serene-retreat-40310.herokuapp.com/)
 
 ## Installation 
 The user should clone the repository from GitHub and install Node.
